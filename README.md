@@ -1,5 +1,5 @@
 # quiz-api
-API for original, multiple choice quiz questions
+Flask/MongoDB API for original, multiple choice quiz questions
 
 ## Features
 * Original questions found nowhere else on the internet
