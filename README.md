@@ -7,7 +7,16 @@ API for original, multiple choice quiz questions
 
 ## Example response
 ```
-{"question": "The final dissolution of the Soviet Union occured on which date?", "correct_answer": "December 26, 1991", "choices": ["November 9, 1989", "November 9, 1991", "October 3, 1990", "December 26, 1991"]}
+{
+  "question": "The final dissolution of the Soviet Union occured on which date?",
+  "correct_answer": "December 26, 1991",
+  "choices": [
+    "November 9, 1989",
+    "November 9, 1991",
+    "October 3, 1990",
+    "December 26, 1991"
+  ]
+}
 ```
 
 ## Links
