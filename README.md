@@ -21,4 +21,4 @@ API for original, multiple choice quiz questions
 
 ## Links
 * API endpoint: https://quiz-api.sites.tjhsst.edu/get_question/
-* Android quiz app using this API: https://github.com/jpes707/android-quiz-app
+* Android quiz app using this API: https://github.com/jpes707/android-quiz-app/
