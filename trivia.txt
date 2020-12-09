@@ -268,7 +268,7 @@ Singapore
 Hong Kong
 Taiwan
 
-Which of the following has never owned an airline?
+Which of the following has never owned and operated an airline?
 McDonald's
 Carnival Cruise Line
 Hooters
@@ -394,11 +394,11 @@ Condensed storage volume
 Compatible spreadsheet version
 Concealed storage vault
 
-Which of the following is not one of the five counties of New York City?
-Nassau
-Kings
-Richmond
-New York
+Which of the following is not one of the five counties (not boroughs) of New York City?
+Nassau County
+Kings County
+Richmond County
+New York County
 
 Which United States president popularized the phrase "Founding Fathers"?
 Warren G. Harding
@@ -615,3 +615,33 @@ Vermont
 Maine
 Kentucky
 Ohio
+
+What is the main island of Japan?
+Honshu
+Shikoku
+Kyushu
+Hokkaido
+
+Besides Israel, where is the world's only other official Jewish jurisdiction?
+In Russia, bordering China
+In Brazil, bordering Bolivia
+In Ethiopia, bordering Sudan
+In Kazakhstan, bordering Uzbekistan
+
+Who was the first human to officially break the sound barrier?
+Chuck Yeager
+Charles Lindbergh
+Yuri Gagarin
+Amelia Earhart
+
+What is the only US state to use civil law, as opposed to common law?
+Lousiana
+Alaska
+Vermont
+Maine
+
+Which New York avenue is also known as "Avenue of the Americas"?
+Sixth Avenue
+Fifth Avenue
+Fourth Avenue
+Third Avenue
