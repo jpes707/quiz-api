@@ -616,7 +616,7 @@ Maine
 Kentucky
 Ohio
 
-What is the main island of Japan?
+What is the largest and most populous island of Japan?
 Honshu
 Shikoku
 Kyushu
@@ -645,3 +645,15 @@ Sixth Avenue
 Fifth Avenue
 Fourth Avenue
 Third Avenue
+
+What is Judge Judy's surname?
+Sheindlin
+Craymer
+Nelson
+Blumenkrantz
+
+What is the natural color of a mirror?
+Green
+White
+Silver/Gray
+Blue
